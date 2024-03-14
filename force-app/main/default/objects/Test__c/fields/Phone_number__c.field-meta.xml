@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Phone_number__c</fullName>
-    <description>Updating for test on PR</description>
+    <description>Updating for test on metatadata disappearing</description>
     <externalId>false</externalId>
     <label>Phone number</label>
     <precision>10</precision>
