@@ -16,7 +16,7 @@ private class TemperatureConverterTest {
         Decimal celsius = TemperatureConverter.FahrenheitToCelsius(-10);
         System.assertEquals(-23.33,celsius);
         
-        //Testing deepak case
+        //Testing deepak case(testing with re commit)
     }
 }
 //test for metadatada disappearing
