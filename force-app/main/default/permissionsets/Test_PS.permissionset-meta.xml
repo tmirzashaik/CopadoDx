@@ -4,8 +4,4 @@
     <hasActivationRequired>false</hasActivationRequired>
     <label>Test PS</label>
     <license>CRMUserPsl</license>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>CampaignInfluence2</name>
-    </userPermissions>
 </PermissionSet>
